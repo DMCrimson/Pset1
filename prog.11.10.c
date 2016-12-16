@@ -24,7 +24,7 @@ int main (void)
     struct entry n1, n2, n3;
     struct entry *listPtr, *listStart = &n1;
 
-    int search;
+    int search; //this is a comment for testing git
 
     n1.value = 100;
     n1.next  = &n2;
